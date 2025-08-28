@@ -25,6 +25,22 @@ These languages each have their strengths and are chosen based on the specific n
 Feel free to adjust the content as needed!
 
 Markdown
+#Introduction to Data Science Libraries
+
+In the field of data science, various libraries are essential for data manipulation, analysis, and visualization. Here are some of the most commonly used libraries:
+
+1. **Pandas**: For data manipulation and analysis, providing data structures like DataFrames.
+2. **NumPy**: A fundamental package for numerical computing, offering support for arrays and matrices.
+3. **Matplotlib**: A plotting library for creating static, interactive, and animated visualizations in Python.
+4. **Seaborn**: Built on Matplotlib, it provides a high-level interface for drawing attractive statistical graphics.
+5. **Scikit-learn**: A library for machine learning that includes tools for classification, regression, and clustering.
+6. **TensorFlow**: An open-source framework for building machine learning and deep learning models.
+7. **Keras**: A high-level neural networks API that runs on top of TensorFlow, simplifying model building.
+8. **Statsmodels**: For statistical modeling and hypothesis testing, providing classes and functions for estimating different statistical models.
+
+These libraries are foundational for anyone looking to excel in data science!
+
+Markdown
 #Data Science Tools
 | Tool           | Description                                   |
 |----------------|-----------------------------------------------|
